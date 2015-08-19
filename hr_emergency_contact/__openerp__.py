@@ -37,5 +37,5 @@ Emergency Contact information for Employee
     ],
     'test': [
     ],
-    'installable': False,
+    'installable': True,
 }
